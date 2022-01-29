@@ -1,0 +1,16 @@
+h3 {
+	text-align: center;
+}
+
+#time {	
+	color: green;
+}
+
+#date {
+	color: blue;
+}
+
+#line {
+	display:flex;
+	justify-content: space-around;
+}
